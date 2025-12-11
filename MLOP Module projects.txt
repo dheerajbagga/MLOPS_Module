@@ -1,2 +1,3 @@
 Day 1 -  https://github.com/dheerajbagga/MLOPS_Module
 Day 2 -  https://github.com/dheerajbagga/Streamlit-Dec-25/tree/main
+Day 3 -  https://github.com/dheerajbagga/Flast-API-December-2025/tree/main
